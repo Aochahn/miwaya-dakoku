@@ -1,0 +1,175 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="勤怠システム_現状フロー" id="8AXpgcz62_brUNd33rsc">
+    <mxGraphModel dx="201268" dy="253719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3508" pageHeight="2480" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-151" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-152" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-153" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-154" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" value="一致" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-155" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-156" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" value="不一致" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-157" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;dashed=1;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-158" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;dashed=1;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-159" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-160" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-161" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;dashed=1;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-162" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-163" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;dashed=1;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-164" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-165" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-166" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-167" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-168" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" value="一致" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-169" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;dashed=1;" value="臨時出勤中" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-170" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-171" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;dashed=1;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-172" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-173" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" />
+        <mxCell id="OyCZ2WQ-TA7O_drZ5BDi-174" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;dashed=1;" />
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-45" connectable="0" parent="1" style="group;fontSize=23;" value="" vertex="1">
+          <mxGeometry height="2390" width="3270" x="119" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-1" parent="1TQ8kO5h5MGHSzxhRpXt-45" style="text;html=1;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;" value="先斗町みわや｜勤怠管理システム 現状フロー" vertex="1">
+          <mxGeometry height="94.84126984126983" width="1754.6341463414635" x="733.7560975609756" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-2" parent="1TQ8kO5h5MGHSzxhRpXt-45" style="swimlane;html=1;horizontal=0;startSize=30;fontStyle=1;fontSize=23;" value="スタッフ" vertex="1">
+          <mxGeometry height="2238.253968253968" width="797.5609756097562" y="151.74603174603175" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-3" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-2" source="1TQ8kO5h5MGHSzxhRpXt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-4" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="出勤のため店舗へ到着" vertex="1">
+          <mxGeometry height="113.80952380952381" width="478.5365853658537" x="111.65853658536587" y="151.74603174603175" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-5" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-2" source="1TQ8kO5h5MGHSzxhRpXt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-6" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="共有iPadで自分を選択" vertex="1">
+          <mxGeometry height="113.80952380952381" width="478.5365853658537" x="111.65853658536587" y="331.94444444444446" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-7" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-2" source="1TQ8kO5h5MGHSzxhRpXt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-8" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-2" source="1TQ8kO5h5MGHSzxhRpXt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350.84707317073173" y="701.8253968253968" />
+              <mxPoint x="654.079756097561" y="701.8253968253968" />
+              <mxPoint x="654.079756097561" y="1451.1662698412697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-9" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="6桁PINを入力" vertex="1">
+          <mxGeometry height="113.80952380952381" width="478.5365853658537" x="111.65853658536587" y="512.1428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-10" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-2" source="1TQ8kO5h5MGHSzxhRpXt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-11" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=23;" value="PINを忘れた・変更申請" vertex="1">
+          <mxGeometry height="113.80952380952381" width="478.5365853658537" x="111.65853658536587" y="777.6984126984127" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-12" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-2" source="1TQ8kO5h5MGHSzxhRpXt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-13" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="臨時打刻後、オーナーへ直接連絡" vertex="1">
+          <mxGeometry height="132.77777777777777" width="478.5365853658537" x="111.65853658536587" y="1157.063492063492" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-14" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="勤務" vertex="1">
+          <mxGeometry height="113.80952380952381" width="478.5365853658537" x="111.65853658536587" y="1394.1666666666665" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-15" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="退勤時に自分を選択して6桁PIN入力" vertex="1">
+          <mxGeometry height="132.77777777777777" width="478.5365853658537" x="111.65853658536587" y="1602.8174603174602" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-16" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=23;" value="臨時出勤中なら「臨時退勤」" vertex="1">
+          <mxGeometry height="113.80952380952381" width="478.5365853658537" x="111.65853658536587" y="1811.468253968254" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-17" parent="1TQ8kO5h5MGHSzxhRpXt-2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="自分の勤怠・確定シフトを閲覧&#10;※編集不可" vertex="1">
+          <mxGeometry height="132.77777777777777" width="478.5365853658537" x="111.65853658536587" y="2010.6349206349205" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-18" parent="1TQ8kO5h5MGHSzxhRpXt-45" style="swimlane;html=1;horizontal=0;startSize=30;fontStyle=1;fontSize=23;" value="勤怠システム / 共有iPad" vertex="1">
+          <mxGeometry height="2238.253968253968" width="1355.8536585365855" x="797.5609756097562" y="151.74603174603175" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-19" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="shape=note;whiteSpace=wrap;html=1;fontSize=23;" value="現状方針：独自ログインは一旦中止。外側はロリポップのアクセス制限で保護。" vertex="1">
+          <mxGeometry height="151.74603174603175" width="941.1219512195122" x="143.5609756097561" y="75.87301587301587" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-20" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-18" source="1TQ8kO5h5MGHSzxhRpXt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-21" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-18" source="1TQ8kO5h5MGHSzxhRpXt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-22" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rhombus;whiteSpace=wrap;html=1;fontSize=23;" value="登録PINと照合" vertex="1">
+          <mxGeometry height="189.68253968253967" width="255.21951219512198" x="143.5609756097561" y="474.20634920634916" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-23" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-18" source="1TQ8kO5h5MGHSzxhRpXt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-24" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="PIN一致 → カメラ起動・写真撮影" vertex="1">
+          <mxGeometry height="132.77777777777777" width="558.2926829268293" x="526.390243902439" y="350.9126984126984" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-25" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="通常出勤を保存&#10;スタッフID / 出勤時刻 / 写真 / 認証結果" vertex="1">
+          <mxGeometry height="161.23015873015873" width="558.2926829268293" x="526.390243902439" y="531.1111111111111" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-26" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-18" source="1TQ8kO5h5MGHSzxhRpXt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-27" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="PIN不一致 → 出勤不可&#10;失敗回数ロックなし" vertex="1">
+          <mxGeometry height="142.26190476190476" width="398.7804878048781" x="143.5609756097561" y="730.2777777777777" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-28" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-18" source="1TQ8kO5h5MGHSzxhRpXt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-29" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="臨時出勤画面&#10;写真撮影 → 臨時出勤を保存" vertex="1">
+          <mxGeometry height="151.74603174603175" width="478.5365853658537" x="606.1463414634146" y="844.0873015873016" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-30" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="「オーナーへ直接連絡してください」表示" vertex="1">
+          <mxGeometry height="132.77777777777777" width="478.5365853658537" x="606.1463414634146" y="1081.1904761904761" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-31" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rhombus;whiteSpace=wrap;html=1;fontSize=23;" value="退勤PINを照合" vertex="1">
+          <mxGeometry height="189.68253968253967" width="255.21951219512198" x="143.5609756097561" y="1498.4920634920634" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-32" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="PIN一致 → 退勤時刻を保存" vertex="1">
+          <mxGeometry height="132.77777777777777" width="558.2926829268293" x="526.390243902439" y="1498.4920634920634" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-33" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="臨時出勤中 → PINなしで臨時退勤保存&#10;管理者通知 + 直接連絡案内" vertex="1">
+          <mxGeometry height="170.7142857142857" width="558.2926829268293" x="526.390243902439" y="1745.079365079365" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-34" parent="1TQ8kO5h5MGHSzxhRpXt-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="スタッフ向け閲覧画面&#10;自分の勤怠 / 自分の確定シフトのみ" vertex="1">
+          <mxGeometry height="151.74603174603175" width="558.2926829268293" x="526.390243902439" y="1972.6984126984125" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-35" parent="1TQ8kO5h5MGHSzxhRpXt-45" style="swimlane;html=1;horizontal=0;startSize=30;fontStyle=1;fontSize=23;" value="管理者（全権限）" vertex="1">
+          <mxGeometry height="2238.253968253968" width="1116.5853658536587" x="2153.4146341463415" y="151.74603174603175" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-36" edge="1" parent="1TQ8kO5h5MGHSzxhRpXt-35" source="1TQ8kO5h5MGHSzxhRpXt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="1TQ8kO5h5MGHSzxhRpXt-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-37" parent="1TQ8kO5h5MGHSzxhRpXt-35" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="通知を受ける&#10;・PIN誤入力&#10;・PIN変更申請&#10;・臨時出勤 / 臨時退勤" vertex="1">
+          <mxGeometry height="208.65079365079364" width="478.53658536585374" x="111.65853658536588" y="569.047619047619" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-38" parent="1TQ8kO5h5MGHSzxhRpXt-35" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="本人から直接連絡を受け、6桁PINを再設定" vertex="1">
+          <mxGeometry height="151.74603174603175" width="478.53658536585374" x="111.65853658536588" y="891.5079365079365" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-39" parent="1TQ8kO5h5MGHSzxhRpXt-35" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="全スタッフの勤怠を閲覧・修正&#10;修正履歴を残す" vertex="1">
+          <mxGeometry height="151.74603174603175" width="478.53658536585374" x="111.65853658536588" y="1261.388888888889" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-40" parent="1TQ8kO5h5MGHSzxhRpXt-35" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="スタッフと直接相談 → シフトを編集・確定" vertex="1">
+          <mxGeometry height="151.74603174603175" width="478.53658536585374" x="111.65853658536588" y="1526.9444444444443" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-41" parent="1TQ8kO5h5MGHSzxhRpXt-35" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=23;" value="全権限&#10;PIN / 勤怠 / シフト / 各種申請を管理" vertex="1">
+          <mxGeometry height="170.7142857142857" width="478.53658536585374" x="111.65853658536588" y="1839.920634920635" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-42" parent="1TQ8kO5h5MGHSzxhRpXt-45" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=23;" value="" vertex="1">
+          <mxGeometry height="616.468253968254" width="701.8536585365854" x="63.804878048780495" y="1716.626984126984" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-43" parent="1TQ8kO5h5MGHSzxhRpXt-45" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;" value="退勤フローは&lt;div&gt;現状無し&lt;/div&gt;" vertex="1">
+          <mxGeometry height="66.38888888888889" width="239.26829268292684" x="558.2926829268293" y="1801.984126984127" as="geometry" />
+        </mxCell>
+        <mxCell id="1TQ8kO5h5MGHSzxhRpXt-44" parent="1TQ8kO5h5MGHSzxhRpXt-45" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;" value="課題とエラー：&lt;div&gt;シフト通りに行かない勤怠に関する対応はどうするか。&lt;div&gt;例えば体調不良や休養によってシフト時間の変更の対応処理が必要になる。&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="151.74603174603175" width="143.5609756097561" x="606.1463414634146" y="2010.6349206349205" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

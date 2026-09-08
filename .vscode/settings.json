@@ -1,0 +1,26 @@
+{
+  "php.validate.enable": true,
+  "php.validate.executablePath": "/Users/aoki_mac-mini/Library/Application Support/Local/lightning-services/php-8.2.29+0/bin/darwin-arm64/bin/php",
+  "php.validate.run": "onSave",
+  "intelephense.environment.phpVersion": "8.2.29",
+  "intelephense.files.exclude": [
+    "**/.git/**",
+    "**/node_modules/**",
+    "**/vendor/**",
+    "**/storage/photos/**",
+    "**/lolipop-public/storage/photos/**"
+  ],
+  "files.associations": {
+    "*.php": "php",
+    "*.sql": "sql"
+  },
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/storage/photos/*": true,
+    "**/lolipop-public/storage/photos/*": true
+  },
+  "search.exclude": {
+    "**/storage/photos": true,
+    "**/lolipop-public/storage/photos": true
+  }
+}

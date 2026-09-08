@@ -1,0 +1,62 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "PHP: syntax check all",
+      "type": "shell",
+      "command": "bash scripts/check-php.sh",
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "Local: deploy app files",
+      "type": "shell",
+      "command": "bash scripts/install-local-by-flywheel.sh \"/Users/aoki_mac-mini/Documents/web-app/miwaya/dakoku-app/app/public\"",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Local: check health",
+      "type": "shell",
+      "command": "bash scripts/check-local-health.sh",
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "Local: open app",
+      "type": "shell",
+      "command": "open http://dakoku-app.local",
+      "problemMatcher": []
+    },
+    {
+      "label": "Local: open admin",
+      "type": "shell",
+      "command": "open http://dakoku-app.local/admin.php",
+      "problemMatcher": []
+    },
+    {
+      "label": "Local DB: apply security migration",
+      "type": "shell",
+      "command": "\"/Users/aoki_mac-mini/Library/Application Support/Local/lightning-services/mysql-8.4.0/bin/darwin-arm64/bin/mysql\" --socket=\"/Users/aoki_mac-mini/Library/Application Support/Local/run/k16Mq-N7T/mysql/mysqld.sock\" -uroot -proot local < \"/Users/aoki_mac-mini/Documents/web-app/miwaya/dakoku-app/app/public/private/migrations/001_security_workflow.sql\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "Local DB: apply shifts migration",
+      "type": "shell",
+      "command": "\"/Users/aoki_mac-mini/Library/Application Support/Local/lightning-services/mysql-8.4.0/bin/darwin-arm64/bin/mysql\" --socket=\"/Users/aoki_mac-mini/Library/Application Support/Local/run/k16Mq-N7T/mysql/mysqld.sock\" -uroot -proot local < \"/Users/aoki_mac-mini/Documents/web-app/miwaya/dakoku-app/app/public/private/migrations/002_member_shifts.sql\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "Local DB: apply shift scheduler migration",
+      "type": "shell",
+      "command": "\"/Users/aoki_mac-mini/Library/Application Support/Local/lightning-services/mysql-8.4.0/bin/darwin-arm64/bin/mysql\" --socket=\"/Users/aoki_mac-mini/Library/Application Support/Local/run/k16Mq-N7T/mysql/mysqld.sock\" -uroot -proot local < \"/Users/aoki_mac-mini/Documents/web-app/miwaya/dakoku-app/app/public/private/migrations/003_shift_scheduler_preferences.sql\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "Local DB: apply staff archive migration",
+      "type": "shell",
+      "command": "\"/Users/aoki_mac-mini/Library/Application Support/Local/lightning-services/mysql-8.4.0/bin/darwin-arm64/bin/mysql\" --socket=\"/Users/aoki_mac-mini/Library/Application Support/Local/run/k16Mq-N7T/mysql/mysqld.sock\" -uroot -proot local < \"/Users/aoki_mac-mini/Documents/web-app/miwaya/dakoku-app/app/public/private/migrations/004_staff_archive_fields.sql\"",
+      "problemMatcher": []
+    }
+  ]
+}

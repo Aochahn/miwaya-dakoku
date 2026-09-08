@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Listen for Local Xdebug",
+      "type": "php",
+      "request": "launch",
+      "port": 9003,
+      "pathMappings": {
+        "/app/public": "${workspaceFolder}/lolipop-public",
+        "/Users/aoki_mac-mini/Documents/web-app/miwaya/dakoku-app/app/public": "${workspaceFolder}/lolipop-public"
+      }
+    }
+  ]
+}
